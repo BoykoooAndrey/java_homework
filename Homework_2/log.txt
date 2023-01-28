@@ -1,0 +1,4 @@
+џэт. 28, 2023 11:52:11 PM task_0 log
+INFO: null in scan!
+џэт. 28, 2023 11:52:16 PM task_0 log
+INFO: Value out of range. Value:"200" Radix:10 in scan!
