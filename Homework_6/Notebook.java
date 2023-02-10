@@ -22,7 +22,18 @@ public class Notebook {
 
 
 
-
+    /**
+     * Характеристики ноутбука
+     * @param manufacturer производитель
+     * @param model модель
+     * @param CPU процессор
+     * @param GPU графический процессор
+     * @param accessMemory оперативная память
+     * @param memory объем накопителя
+     * @param color цвет
+     * @param price цена
+     * @param IMEI серийный номер
+     */
     Notebook(String manufacturer, String model, String CPU, String GPU, String accessMemory, String memory,
             String color, String price, Integer IMEI) {
         this.manufacturer = manufacturer;
